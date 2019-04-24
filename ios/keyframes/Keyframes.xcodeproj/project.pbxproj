@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		342484B41DFA143400A2471E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 342484B21DFA143400A2471E /* Info.plist */; };
 		342484B51DFA143400A2471E /* Keyframes.h in Headers */ = {isa = PBXBuildFile; fileRef = 342484B31DFA143400A2471E /* Keyframes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		493741AF1DE4FEB6002141D1 /* sample_logo.json in Resources */ = {isa = PBXBuildFile; fileRef = 493741AE1DE4FEB6002141D1 /* sample_logo.json */; };
 		49A85F1D1D90B94B00185B66 /* KFVectorBitmapFeatureLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 49A85F1B1D90B94B00185B66 /* KFVectorBitmapFeatureLayer.h */; };
@@ -543,6 +542,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = ADBA24A61D2C3C9400D2549E;
@@ -572,7 +572,6 @@
 			files = (
 				AD8E72841D2C3DB100E3BA9D /* KFVectorAnimationKeyValue.value in Resources */,
 				AD8E72811D2C3DB100E3BA9D /* KFVectorAnimationGroup.value in Resources */,
-				342484B41DFA143400A2471E /* Info.plist in Resources */,
 				AD8E72871D2C3DB100E3BA9D /* KFVectorFeature.value in Resources */,
 				49C747231E554F0D00C82C73 /* KFVectorPathTrim.value in Resources */,
 				AD8E72781D2C3DB100E3BA9D /* .valueObjectConfig in Resources */,
